@@ -9,10 +9,10 @@
   Commercial use, resale, rental, or redistribution without permission is strictly prohibited!
 </p>
 
-# Mood Book
+# MOOD-BOOK
 
 **What this program does:**  
-Mood Book is a personal journaling application that analyzes user notes to determine their emotional state.  
+MOOD-BOOK is a personal journaling application that analyzes user notes to determine their emotional state.  
 It allows users to:  
 
 - Write personal notes or diary entries  
@@ -71,11 +71,10 @@ You may use this project **only for personal or educational purposes**.
 
 ## 👤 Owner & Creator
 
-- **Owner:** AbolfazlGameMaker  
-- **Creator:** AbolfazlGameMaker
+- **Owner & Creator:** AbolfazlGameMaker
 
 ---
 
 <p align="center">
-  <strong style="color:#007ACC;">Made with ❤️ by Mood Book</strong>
+  <strong style="color:#007ACC;">Made with ❤️ by AbolfazlGameMaker</strong>
 </p>
